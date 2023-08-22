@@ -20,7 +20,7 @@ Within the product categories, "Classic Cars" emerged as the company's star perf
 **c) Leading Revenue-Generating Country:**
 
 Undoubtedly, the United States emerged as the supreme revenue generator during the three-year span, adding 3.78 million to the sales ledger. This revelation underscores the resonance of the company's offerings in the US market. Moreover, it signals an opportunity to strategically extend the company's foothold in this region. Deconstructing the factors contributing to the US triumph holds the potential to guide market expansion endeavors with analogous market dynamics.
-![image](https://github.com/StanLi01/Company-Product-Sales/assets/113431822/0dffbbdd-2c4e-47b8-93d1-c124ac1dbd75)
+![image](https://github.com/StanLi01/Company-Product-Sales/assets/113431822/d7621103-1cd6-4d0e-9cbf-b580a9af7e45)
 
 **In Summary:**
 
