@@ -22,6 +22,12 @@ Within the product categories, "Classic Cars" emerged as the company's star perf
 Undoubtedly, the United States emerged as the supreme revenue generator during the three-year span, adding 3.78 million to the sales ledger. This revelation underscores the resonance of the company's offerings in the US market. Moreover, it signals an opportunity to strategically extend the company's foothold in this region. Deconstructing the factors contributing to the US triumph holds the potential to guide market expansion endeavors with analogous market dynamics.
 ![image](https://github.com/StanLi01/Company-Product-Sales/assets/113431822/d7621103-1cd6-4d0e-9cbf-b580a9af7e45)
 
+**d) Product Deal Size:**
+
+There were over one thousand three hundred (1349) sales of products classified as Medium size, for a total of 5.9 million. This shows that medium-sized products generate more sales for the company and should be sold more.
+![image](https://github.com/StanLi01/Company-Product-Sales/assets/113431822/58b7aa63-1bf7-49c1-b38a-4d3d7ac52e0c)
+
+
 **In Summary:**
 
 The sales analysis reveals compelling trends that illuminate the company's successes and point toward strategic avenues for further growth. By leveraging the insights gleaned from these observations, the company can refine its marketing, sales, and expansion strategies, capitalizing on its strengths and capturing new opportunities in both existing and new markets.
