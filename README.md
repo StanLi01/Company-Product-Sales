@@ -14,6 +14,7 @@ The final quarters of 2003, 2004, and 2005 showcased the company's peak sales pe
 **b) Best-Selling Product:**
 
 Within the product categories, "Classic Cars" emerged as the company's star performer, significantly contributing to its revenue stream. Over the course of three years, Classic Cars notched sales totaling 3.8 million, making them a formidable catalyst for the company's overall prosperity. Unveiling the driving forces behind the popularity of Classic Cars could illuminate avenues to harness these strengths across other product lines.
+
 ![image](https://github.com/StanLi01/Company-Product-Sales/assets/113431822/6fafb46b-703c-4661-8dc8-44a4a755b9f6)
 
 **c) Leading Revenue-Generating Country:**
